@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I love to explore new in iOS development
 
 ## Tech Stack:
- iOS <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20">, Swift <img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="20">, Objective-C, UIKit, https://img.shields.io/static/v1?label=<Realm>&message=<Local DB>&color=<Red> 
+ iOS <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20">, Swift <img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="20">, <img src="https://img.shields.io/badge/Objective-C%20DB-blue" width="20"> <img src="https://img.shields.io/badge/UIKit%20DB-black" width="20"> <img src="https://img.shields.io/badge/Realm-Local%20DB-red" width="20"> 
+  
 
 ## Social:
 
