@@ -7,7 +7,7 @@
 
 🤔 Looking: To join or build iOS community 
 
-⚡ Fun fact: I love to explore what is new in iOS development
+⚡ Fun fact: I am passionate to explore what is new in iOS development
 
 📫 How to reach me? here is a way: <a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="20" /></a>
 
