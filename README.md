@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on a labour tracking application which enables construction companies to log the working hours of their workforce automatically.
 - 🌱 I’m currently learning SwiftUI and frameworks like Combine
 - 🤔 I’m looking for help to join or building the iOS community 
-- 📫 How to reach me? here is a way: <a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" /></a>
+- 📫 How to reach me? here is a way: <a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="20" /></a>
 - ⚡ Fun fact: I love to explore new in iOS development
 
 ## Tech Stack:
-<img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20"> <img src="https://img.shields.io/badge/Swift-Red"> <img src="https://img.shields.io/badge/Objective-C-blue"> <img src="https://img.shields.io/badge/UIKit-9cf"> <img src="https://img.shields.io/badge/Realm-Local%20DB-red"> 
+<img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20"> <img src="https://img.shields.io/badge/Swift-red"> <img src="https://img.shields.io/badge/Objective-C-blue"> <img src="https://img.shields.io/badge/UIKit-9cf"> <img src="https://img.shields.io/badge/Realm-Local%20DB-red"> 
   
 
 ## Social:
