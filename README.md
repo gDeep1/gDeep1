@@ -14,7 +14,7 @@
 ## Public Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=gDeep1&show_icons=true&theme=gruvbox" width="400">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gDeep1&theme=gruvbox)](https://git.io/streak-stats)
 
 <!--
 **gDeep1/gDeep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
