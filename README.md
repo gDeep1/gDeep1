@@ -3,7 +3,7 @@
 
 🔭 Development: A labour tracking application that logs working hours of workforce automatically
 
-🌱 Learning: SwiftUI and frameworks like Combine
+🌱 Learning: SwiftUI and frameworks like Combine, Using github to show personal projects
 
 🤔 Looking: To join or build iOS community 
 
