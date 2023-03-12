@@ -1,5 +1,5 @@
 ## About Me:
-  I am SDE-iOS <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20">
+  <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="20"> SDE-iOS 
 
 
 - 🔭 I’m currently working on a labour tracking application which enables construction companies to log the working hours of their workforce automatically.
