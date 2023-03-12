@@ -16,7 +16,7 @@
 
  <a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" /></a>
 
-## Stats:
+## Public Repo Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=gDeep1&show_icons=true&theme=gruvbox" width="400">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gDeep1&theme=gruvbox)](https://git.io/streak-stats)
