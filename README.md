@@ -13,7 +13,7 @@
 
 ## Social:
 
- a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" /></a>
+ <a href="https://www.linkedin.com/in/gdeep1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="25" /></a>
 
 ## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=gDeep1&show_icons=true&theme=gruvbox" width="400">
