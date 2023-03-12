@@ -1,5 +1,5 @@
 ## About Me:
-  I am SDE-iOS
+  I am SDE-iOS <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="25">
 
 
 - 🔭 I’m currently working on a labour tracking application which enables construction companies to log the working hours of their workforce automatically.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to explore new in iOS development
 
 ## Tech Stack:
- iOS, Swift, Objective-C, UIKit, Realm
+ <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="25">, Swift, Objective-C, UIKit, Realm
 
 ## Social:
 
