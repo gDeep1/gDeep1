@@ -1,9 +1,9 @@
 ## About Me:
 <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="18"> SDE-iOS 
 
-🔭 Development: A labour tracking application that logs working hours of workforce automatically
+🎯 Current Project: A labour tracking application that helps workforce to logs their working hours automatically.
 
-🌱 Learning: SwiftUI and frameworks like Combine, Using github to show personal projects
+🌱 Learning: SwiftUI and frameworks like Combine, and to use github for showing personal projects
 
 🤔 Looking: To join or build iOS community 
 
