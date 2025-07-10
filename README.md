@@ -5,7 +5,7 @@
 
 🌱 Learning: SwiftUI and frameworks like Combine, and to use github for showing personal projects
 
-🤔 Looking: To join or build iOS community 
+🤔 Looking: Always open to join and build iOS community
 
 ⚡ Fun fact: I am passionate to explore what is new in iOS development
 
