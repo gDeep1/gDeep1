@@ -1,7 +1,7 @@
 ## About Me:
 <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" width="18"> SDE-iOS 
 
-🎯 Current Project: A labour tracking application that helps workforce to logs their working hours automatically.
+🎯 Current Project: A time and GPS location tracking application.
 
 🌱 Learning: SwiftUI and frameworks like Combine, and to use github for showing personal projects
 
